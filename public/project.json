@@ -1,0 +1,48 @@
+{
+      "slug": "grocerymart",
+      "title": "GroceryMart",
+      "category": "E-Commerce",
+      "tagline": "Fresh Groceries Delivered to Your Doorstep",
+      "summary": "A full-featured e-commerce platform for grocery delivery with real-time tracking and payment integration.",
+      "stack": ["Django", "React", "PostgreSQL"]
+    },
+    {
+      "slug": "smart-school",
+      "title": "Smart School",
+      "category": "Education",
+      "tagline": "Complete School & Student Management",
+      "summary": "School management system to manage students, teachers, attendance, exams and communication in one place.",
+      "stack": ["Laravel", "React", "MySQL"]
+    },
+    {
+      "slug": "bizboost-agency",
+      "title": "BizBoost Agency",
+      "category": "Corporate",
+      "tagline": "We Help Businesses Grow Beyond Limits",
+      "summary": "Corporate website for a digital agency with modern UI/UX, service showcase and case studies.",
+      "stack": ["WordPress", "PHP", "JavaScript"]
+    },
+    {
+      "slug": "salesflow-crm",
+      "title": "SalesFlow CRM",
+      "category": "Web Application",
+      "tagline": "Manage Customers, Invoices, Employees & Reports",
+      "summary": "CRM system to manage leads, deals, invoices and reports with advanced analytics dashboard.",
+      "stack": ["Django", "React", "Redis"]
+    },
+    {
+      "slug": "trendify-store",
+      "title": "Trendify Store",
+      "category": "E-Commerce",
+      "tagline": "Summer Collection 2024",
+      "summary": "Modern fashion e-commerce store with product filters, wishlist, and secure checkout.",
+      "stack": ["Laravel", "React", "MySQL"]
+    },
+    {
+      "slug": "taskhive",
+      "title": "TaskHive",
+      "category": "Web Application",
+      "tagline": "Project Management, Simplified",
+      "summary": "Project management application for teams to collaborate, assign tasks and track progress.",
+      "stack": ["Django", "React", "PostgreSQL"]
+    }

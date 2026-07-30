@@ -1,0 +1,224 @@
+{
+  "site": {
+    "title": "LIKHON.COM.BD — Software Development & AI Solutions",
+    "shortName": "LIKHON",
+    "domain": ".COM.BD",
+    "tagline": "Software Development & AI Solutions",
+    "logo": "/assets/logo.png",
+    "favicon": "/assets/logo.png",
+    "loadingText": "Loading LIKHON.COM.BD…"
+  },
+  "nav": {
+    "links": [
+      { "label": "Home", "href": "/", "type": "route" },
+      { "label": "Technologies", "href": "/#technologies", "type": "anchor" },
+      { "label": "Projects", "href": "/projects", "type": "route" },
+      { "label": "Team", "href": "/#team", "type": "anchor" },
+      { "label": "Testimonials", "href": "/#testimonials", "type": "anchor" },
+      { "label": "Contact", "href": "/#contact", "type": "anchor" }
+    ],
+    "cta": { "label": "Let’s Talk", "href": "/start-a-project" }
+  },
+  "hero": {
+    "eyebrow": "We Build • You Grow",
+    "titleLines": ["We Build Scalable", "Web Solutions", "That "],
+    "titleAccent": "Grow Your Business",
+    "description": "Expert in Python (Django), Laravel, React & WordPress. We build high-performance, secure and modern websites and custom web applications that drive real results.",
+    "primaryCta": { "label": "Start Your Project", "href": "/start-a-project" },
+    "secondaryCta": { "label": "View Our Work", "href": "/projects" }
+  },
+  "stats": [
+    { "value": 10, "suffix": "+", "label": "Projects Completed" },
+    { "value": 6, "suffix": "+", "label": "Happy Clients" },
+    { "value": 5, "suffix": "+", "label": "Years Experience" },
+    { "value": 100, "suffix": "%", "label": "Client Satisfaction" }
+  ],
+  "technologies": {
+    "eyebrow": "Technologies We Use",
+    "title": "Modern Technologies For ",
+    "titleAccent": "Modern Solutions",
+    "items": [
+      { "name": "Python", "tag": "Backend", "icon": "/assets/tech/python.webp", "blurb": "Our core language for clean, reliable server-side logic." },
+      { "name": "Django", "tag": "Backend", "icon": "/assets/tech/django.png", "blurb": "REST Framework for fast, secure APIs at scale." },
+      { "name": "Laravel", "tag": "Backend", "icon": "/assets/tech/laravel.webp", "blurb": "Elegant PHP framework for robust web applications." },
+      { "name": "React", "tag": "Frontend", "icon": "/assets/tech/react.png", "blurb": "Component-driven interfaces that feel instant." },
+      { "name": "WordPress", "tag": "CMS", "icon": "/assets/tech/wordpress.webp", "blurb": "Flexible CMS builds for content-first sites." }
+    ]
+  },
+  "team": {
+    "eyebrow": "Our Team",
+    "titleLines": ["Creative Minds.", "Proven Skills."],
+    "titleAccent": "Real Results.",
+    "description": "We’re a team of passionate developers and designers who turn ideas into scalable digital products.",
+    "members": [
+      { "name": "Likhon Sorkar", "role": "Full Stack Developer · Founder", "photo": "/assets/team/MD_LIKHON_SORKAR.jpg", "stack": ["Python", "Django", "React", "Tailwind", "Wordpress"] },
+      { "name": "Ashraful Ahsan", "role": "Full Stack Developer", "photo": "/assets/team/Ashraful_Ahsan.jpg", "stack": ["React", "Laravel", "WordPress"] },
+      { "name": "Jahidul Islam Jannat", "role": "UI/UX and Editor", "photo": "/assets/team/Jahidul_Islam_Jannat.jpg", "stack": ["Video Ads Make", "Photo And Video Editor", "UI/UX Designer", "Data Listing"] },
+      { "name": "Imran Hosen", "role": "Digital Marketer", "photo": "/assets/team/Imran_Hosen.jpg", "stack": ["SEO", "Google Ads", "Facebook Ads", "Social Media Marketing", "Content Marketing"] }
+    ]
+  },
+  "projectsSection": {
+    "eyebrow": "Our Recent Projects",
+    "title": "Solutions We ",
+    "titleAccent": "Built",
+    "viewAllLabel": "View All Projects"
+  },
+  "projects": [
+   {
+  "slug": "jahidul-portfolio",
+  "title": "JAHIDUL.COM.BD",
+  "category": "Personal Portfolio",
+  "tagline": "Video Editor Portfolio & Creative Showcase",
+  "summary": "A modern personal portfolio website built to showcase my video editing work, wedding films, commercial advertisements, and creative storytelling through a clean, responsive, and fast web experience.",
+  "image": "/assets/screenshots/jahidul-portfolio.png",
+  "stack": ["React", "Vite", "React Router"],
+  "featured": true,
+  "overview": "This portfolio represents my creative journey as a professional video editor and visual storyteller. Built with React, Vite, and React Router, the website features a clean user interface, smooth animations, responsive layouts, and a JSON-driven content structure. Every section—including profile information, portfolio projects, skills, education, contact details, and social links—is managed from a single JSON file, making future updates simple without modifying component code.",
+  "meta": {
+    "type": "Portfolio Website",
+    "platform": "Web",
+    "duration": "2026",
+    "team": "Solo Project",
+    "role": "Frontend Development & UI Design",
+    "updated": "July 2026"
+  },
+  "features": [
+    "JSON-driven content system for easy updates without changing code",
+    "Professional portfolio showcasing commercial ads, wedding films, and short-form content",
+    "Fully responsive design optimized for desktop, tablet, and mobile",
+    "Smooth animations and modern scrolling experience",
+    "Project gallery with individual video previews powered by Google Drive",
+    "Direct contact options via WhatsApp, Email, and SMS",
+    "Clean and minimal UI focused on visual storytelling",
+    "Easy-to-maintain architecture ready for future backend integration"
+  ],
+  "stackFull": [
+    "React 18",
+    "Vite",
+    "React Router",
+    "Custom CSS",
+    "Font Awesome",
+    "JSON-based Content Management"
+  ],
+  "results": [
+    {
+      "value": "18+",
+      "label": "Featured Projects"
+    },
+    {
+      "value": "100%",
+      "label": "Responsive Design"
+    },
+    {
+      "value": "3",
+      "label": "Direct Contact Options"
+    },
+    {
+      "value": "1",
+      "label": "Single JSON Content System"
+    }
+  ],
+  "testimonial": {
+    "quote": "I wanted a portfolio that reflects my editing style—clean, cinematic, and easy to update. Every project, every section, and every detail can be managed from one JSON file while delivering a smooth experience across all devices.",
+    "author": "Jahidul Islam Jannat",
+    "title": "Video Editor & Visual Storyteller"
+  }
+},
+   
+    {
+  "slug": "likhon-portfolio",
+  "title": "LIKHON.COM.BD",
+  "category": "Corporate",
+  "tagline": "Agency Portfolio & Business Website",
+  "summary": "The agency's own portfolio and business website — a fast, animated, fully responsive React site with a JSON-driven content system so any text can be edited without touching code.",
+  "image": "/assets/screenshots/likhon-portfolio-home.png",
+  "stack": ["React", "Vite", "React Router"],
+  "featured": true,
+  "overview": "This is the site you're looking at right now. Built with React, Vite, and React Router across 4 pages (Home, Projects, Project Details, Start a Project). Every piece of content — nav, hero copy, team, tech stack, project list, testimonials, contact details — is pulled from a single JSON file through a small API-client function, so it can be swapped for a real backend later without touching any component code.",
+  "meta": {
+    "type": "Web Application",
+    "platform": "Web",
+    "duration": "Ongoing",
+    "team": "In-house Team",
+    "role": "Full Stack Development",
+    "updated": "July 2026"
+  },
+  "features": [
+    "JSON-driven content — nav, text, team, and projects are all editable from one file",
+    "API-client pattern ready to swap for a real backend with no component changes",
+    "Fully responsive with an animated slide-in mobile menu",
+    "Scroll-reveal animations and count-up stat numbers",
+    "One-click contact via WhatsApp, Email, or SMS — no backend required",
+    "Category-filterable project showcase with individual case-study pages"
+  ],
+  "stackFull": ["React 18", "Vite", "React Router", "Custom CSS (no framework)", "JSON API-client architecture"],
+  "results": [
+    { "value": "4", "label": "Core Pages" },
+    { "value": "100%", "label": "Mobile Responsive" },
+    { "value": "3", "label": "Contact Channels" },
+    { "value": "1", "label": "JSON File Powers It All" }
+  ],
+  "testimonial": {
+    "quote": "We wanted our own site to prove what we build for clients: fast, animated, and easy to update without touching a single line of code.",
+    "author": "MD Likhon Sorkar",
+    "title": "Founder, LIKHON.COM.BD"
+  }
+}
+  ],
+  "testimonialsSection": {
+    "eyebrow": "What Our Clients Say",
+    "title": "Trusted by ",
+    "titleAccent": "Businesses Worldwide",
+    "items": [
+      { "name": "Andrew", "location": "Italy", "quote": "The  Work was very well done and the delivery time is super fast, he alwas answer quickly and its always open up to the conversation. Very Recommend!" },
+      { "name": "Camilachv", "location": "Italy", "quote": "Super nice experience! Fast Delivery! Problem solver! And good design!Thank you so much! Really reccomend it :)" },
+      { "name": "luisarauseo", "location": "Italy", "quote": "Super super fast!!! This guy Saved me Last Munite with a super clean and fast work and for a super affordable price too!! Really suggest to work with him" },
+      { "name": "nicoperics", "location": "Guatemala", "quote": "Great communication and fast service! Thank you" },
+      { "name": "eugeniogiani", "location": "Italy", "quote": "Everything was perfect, strongly suggest!" },
+      { "name": "Artie Romero", "location": "USA", "quote": "Excellent Work, Thank you" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Let’s Work Together",
+    "titleLines": ["Have a Project", "in Mind?"],
+    "description": "Let’s discuss how we can turn your ideas into powerful digital solutions.",
+    "whatsapp": "8801811293071",
+    "email": "info@likhon.com.bd",
+    "website": "LIKHON.COM.BD",
+    "location": "Bangladesh (Available Worldwide)"
+  },
+  "startProject": {
+    "breadcrumb": "Start Your Project",
+    "titleLines": ["Let’s Build Something"],
+    "titleAccent": "Amazing",
+    "titleEnd": " Together!",
+    "description": "Have a project idea? Let’s turn it into a powerful digital solution that drives your business forward.",
+    "perkRow": [
+      { "title": "Fast Response", "body": "We reply within 24 hours" },
+      { "title": "Secure & Reliable", "body": "We build secure, scalable solutions" },
+      { "title": "Expert Team", "body": "Skilled developers at your service" }
+    ],
+    "steps": [
+      { "title": "We Receive Your Request", "body": "We’ll review your project details and requirements carefully." },
+      { "title": "Discussion & Planning", "body": "Our team will contact you to discuss your goals and the best solution." },
+      { "title": "Proposal & Estimation", "body": "You’ll receive a detailed proposal, timeline and cost estimation." },
+      { "title": "Start Building", "body": "Once everything is confirmed, we’ll start building your project." }
+    ],
+    "perks": ["100% Client Satisfaction", "On-Time Delivery", "Clean & Scalable Code", "24/7 Support & Maintenance", "Money Back Guarantee"],
+    "projectTypes": ["Website", "Web Application", "E-Commerce Store", "API / Backend", "Other"],
+    "budgetRanges": ["Under $500", "$500 – $2,000", "$2,000 – $5,000", "$5,000+"],
+    "timelines": ["Less than 1 month", "1 – 3 months", "3+ months"]
+  },
+  "footer": {
+    "description": "We build modern, fast and secure web solutions that help businesses grow and succeed online.",
+    "social": [
+      { "label": "Facebook", "short": "FB", "href": "https://www.facebook.com/profile.php?id=100067771030297" },
+      { "label": "LinkedIn", "short": "IN", "href": "https://bd.linkedin.com/in/likhonsorkar" },
+      { "label": "GitHub", "short": "GH", "href": "https://github.com/likhonsorkar" }
+    ],
+    "services": ["Web Development", "E-Commerce Solutions", "Custom Web Applications", "API Development", "Maintenance & Support"],
+    "technologies": ["Python (Django)", "Django REST Framework", "Laravel", "React", "WordPress"],
+    "copyright": "LIKHON.COM.BD. All Rights Reserved.",
+    "signature": ""
+  }
+}
