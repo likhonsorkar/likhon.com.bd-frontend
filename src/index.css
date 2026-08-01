@@ -78,7 +78,7 @@ button, input, select, textarea { font-family: inherit; font-size: 1rem; }
 }
 .btn:hover { transform: translateY(-2px); }
 .btn--primary { background: var(--grad); color: var(--white); box-shadow: 0 12px 24px -10px rgba(99,102,241,0.55); }
-.btn--ghost { background: transparent; border-color: var(--line-dark); color: var(--ink); }
+.btn--ghost { background: transparent; border-color: var(--line-dark); color: var(--white); }
 .section--dark .btn--ghost, .navbar .btn--ghost { border-color: rgba(0,0,0,0.15); }
 .btn--light { background: var(--white); color: var(--navy); }
 

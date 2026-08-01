@@ -13,9 +13,9 @@
       { "label": "Home", "href": "/", "type": "route" },
       { "label": "Technologies", "href": "/#technologies", "type": "anchor" },
       { "label": "Projects", "href": "/projects", "type": "route" },
-      { "label": "Team", "href": "/#team", "type": "anchor" },
       { "label": "Testimonials", "href": "/#testimonials", "type": "anchor" },
-      { "label": "Contact", "href": "/#contact", "type": "anchor" }
+      { "label": "Contact", "href": "/#contact", "type": "anchor" },
+      { "label": "Payment", "href": "https://payment.likhon.com.bd", "type": "anchor" }
     ],
     "cta": { "label": "Let’s Talk", "href": "/start-a-project" }
   },
