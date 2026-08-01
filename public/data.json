@@ -35,8 +35,8 @@
   ],
   "technologies": {
     "eyebrow": "Technologies We Use",
-    "title": "Modern Technologies For ",
-    "titleAccent": "Modern Solutions",
+    "title": "Modern Technologies. Professional Solutions.",
+    "titleAccent": " Powered by My Team",
     "items": [
       { "name": "Python", "tag": "Backend", "icon": "/assets/tech/python.webp", "blurb": "Our core language for clean, reliable server-side logic." },
       { "name": "Django", "tag": "Backend", "icon": "/assets/tech/django.png", "blurb": "REST Framework for fast, secure APIs at scale." },
@@ -220,5 +220,43 @@
     "technologies": ["Python (Django)", "Django REST Framework", "Laravel", "React", "WordPress"],
     "copyright": "LIKHON.COM.BD. All Rights Reserved.",
     "signature": ""
-  }
+  },
+  "aboutme": {
+  "name": "LIKHON SORKAR",
+  "title": "Full Stack Web Developer",
+  "profileImage": "/assets/team/MD_LIKHON_SORKAR.jpg",
+  "cv": "/assets/cv/likhon-sorkar-cv.pdf",
+  "shortDescription": "Full Stack Web Developer crafting fast, scalable web apps with Python, Django & React — from the first line of code to production deployment.",
+  "longDescription": [
+    "I'm a Full Stack Web Developer specializing in Python, Django, and React. I design and build modern, responsive, scalable, and high-performance web applications from the ground up.",
+    "Beyond development, I handle the entire deployment pipeline — hosting and deploying frontend applications on Cloudflare Pages, and guiding clients through domain configuration, SSL setup, and ongoing project maintenance — so nothing is left for you to figure out alone. I provide complete technical support and I'm ready to help whenever you need it.",
+    "Whether you already have a Django or React project that needs to be managed, maintained, optimized, or upgraded, or you're looking to migrate an existing website onto Python & Django, I make the transition smooth, secure, and built to scale."
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "React.js",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Cloudflare Pages",
+    "Git",
+    "GitHub",
+    "REST API",
+    "Responsive Design",
+    "Website Maintenance",
+    "Deployment & Hosting"
+  ],
+  "social": [
+    { "platform": "facebook", "label": "Facebook", "url": "https://facebook.com/likhonsorkar" },
+    { "platform": "github", "label": "GitHub", "url": "https://github.com/likhonsorkar" },
+    { "platform": "linkedin", "label": "LinkedIn", "url": "https://linkedin.com/in/likhonsorkar" },
+    { "platform": "twitter", "label": "Twitter / X", "url": "https://x.com/likhonsorkar" },
+    { "platform": "instagram", "label": "Instagram", "url": "https://instagram.com/likhonsorkar" }
+  ]
+}
+
 }

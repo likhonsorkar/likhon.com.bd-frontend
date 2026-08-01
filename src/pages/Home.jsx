@@ -7,6 +7,7 @@ import SendOptions from '../components/SendOptions.jsx'
 import { useReveal } from '../hooks/useReveal.js'
 import { useCountUp } from '../hooks/useCountUp.js'
 import { buildMessage } from '../utils/contactLinks.js'
+import About from '../components/About.jsx'
 
 function StatItem({ stat }) {
   const [ref, visible] = useReveal()
@@ -108,7 +109,9 @@ export default function Home() {
           </div>
         </div>
       </section>
-
+      <section>
+        <About/>
+      </section>
       {/* TEAM */}
       <section className="section section--dark" id="team">
         <div className="container team-layout">
